@@ -1,4 +1,7 @@
 # Ejercicio 1
+## Ejercicio 1
+El código fuente en Python y Haskell está en la carpeta `Ejercicio 1`.  
+A continuación, se presenta el análisis comparativo entre los dos enfoques:
 ## Análisis comparativo: Imperativo (Python) vs Declarativo (Haskell)
 
 ####  1. Claridad y legibilidad del código
